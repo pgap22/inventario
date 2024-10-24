@@ -1,0 +1,11 @@
+com\crudventas\dao\LineaDeVentaDAO.class
+com\crudventas\inventario\resources\JakartaEE8Resource.class
+com\crudventas\dao\VentaDAO.class
+com\crudventas\modelo\Ventas.class
+com\crudventas\interfaces\Crud.class
+com\crudventas\inventario\JakartaRestConfiguration.class
+com\crudventas\modelo\LineaDeVenta.class
+com\crudventas\servlet\VentaServlet.class
+com\crudventas\controlador\VentaControlador.class
+com\crudventas\config\Conexion.class
+com\crudventas\controlador\LineaDeVentaControlador.class
